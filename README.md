@@ -8,9 +8,10 @@ This project demonstrates core JavaScript logic, DOM manipulation, and game stat
 ## 📸 Screenshots
 
 ### 🟡 Game Draw Screen
-![Game Draw](<img src="https://img.sanishtech.com/u/9cef84a99fe622c80a3d438396e545ad.png" alt="Screenshot 2026-01-13 235044" width="1920" height="1080" loading="lazy" style="max-width:100%;height:auto;">)
+![Game Draw](https://github.com/Omkar7143/Tic-Tac-Toe-Game/blob/master/Screenshot%202026-01-17%20154115.png?raw=true)
 
 ---
+
 
 ## 🚀 Features
 
